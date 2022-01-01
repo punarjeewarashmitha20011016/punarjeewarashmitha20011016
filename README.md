@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Punarjeewa2001?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/home)
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=punarjeewarashmitha20011016&label=Profile%20views&color=0e75b6&style=flat" alt="punarjeewarashmitha20011016" /></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/punarjeewarashmitha20011016.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/punarjeewarashmitha20011016?tab=followers)
 
