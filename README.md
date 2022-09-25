@@ -50,6 +50,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left"  alt="hibernate" width="26px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
+<img align="left"  alt="react js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+<img align="left"  alt="react-native" width="26px" src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" />
+<img align="left"  alt="express js" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
+<img align="left"  alt="mongo db" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+<img align="left"  alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
+
 
 <br />
 <br />
